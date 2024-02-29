@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerKaLoop", "ServerKaLoop.csproj", "{ABD17C6A-F838-4D1B-AB12-534EA082F1B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameDatabase", "..\GameDatabase\GameDatabase.csproj", "{B90424D5-26C3-4C4C-8E29-70C825310AAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{22D35110-EEA5-4CE6-8C07-299BB45E565A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD17C6A-F838-4D1B-AB12-534EA082F1B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD17C6A-F838-4D1B-AB12-534EA082F1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD17C6A-F838-4D1B-AB12-534EA082F1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD17C6A-F838-4D1B-AB12-534EA082F1B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90424D5-26C3-4C4C-8E29-70C825310AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90424D5-26C3-4C4C-8E29-70C825310AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90424D5-26C3-4C4C-8E29-70C825310AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90424D5-26C3-4C4C-8E29-70C825310AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC47A78-7F4C-4089-AEEE-F9C9DFF126F8}
+	EndGlobalSection
+EndGlobal
